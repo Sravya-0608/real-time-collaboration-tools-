@@ -43,4 +43,5 @@ A real-time collaborative note-taking application with multi-user support, inspi
 -MongoDB
 -bcrypt
 -jsonwebtoken
-
+## output:
+![Image](https://github.com/user-attachments/assets/d989550a-abca-49bc-9ab3-45332f960827)
